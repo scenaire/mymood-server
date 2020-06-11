@@ -5,8 +5,8 @@ this is a server-side for My Mood Day Application on [this repository](https://g
 ## Requirements
 
 * [Node.js](https://nodejs.org/en/)
-* [NPM](https://www.npmjs.com/)
-* [firebase cli](https://firebase.google.com/docs/cli)
+* [npm](https://www.npmjs.com/)
+* [Firebase cli](https://firebase.google.com/docs/cli)
 
 ## Installation
 
